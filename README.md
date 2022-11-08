@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paddykimamo
 - 👀 I’m interested in IOT in home and farm automation
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on using javascript and nodejs on raspberrypi
 - 📫 How to reach me ...
 
 <!---
